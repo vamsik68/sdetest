@@ -15,4 +15,7 @@
   ],
   "author": "vamsik68",
   "license": "ISC"
+  "publishConfig": {
+   "@vamsik68:registry": "https://npm.pkg.github.com"
+ }
 }
